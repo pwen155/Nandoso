@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="NandosoContext-Web.config Connection String" description="NandosoContext Connection String used in web.config by the application to access the database." defaultValue="Database=acsm_498eba8fa23b8c6;Data Source=us-cdbr-azure-west-c.cloudapp.net;User Id=be20050e7bd858;Password=fa4b3852" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Mike\\Documents\\Visual\ Studio\ 2015\\Projects\\Nandoso\\Nandoso\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NandosoContext']/@connectionString" />
+  </parameter>
+</parameters>
